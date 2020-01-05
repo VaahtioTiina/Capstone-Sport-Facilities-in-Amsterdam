@@ -1,0 +1,41 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# # Python Capstone - Battle Of Neighborhoods - Gyms in Amsterdam
+
+# ## 1.0 Introduction 
+# 
+# ##### In the recent years the fitness industry has been booming in the Netherlands. New sports locations, apps, blogs, instagram influencers related to fitness and well-being keep appearing at a fast pace and many gym chains are growing and expanding with a high rate. According to CBS, in 2017, 2.25 million  people in the Netherlands had a gym membership.  Moreover, on avg a fitness centers have over 1100 members. 
+# 
+# 
+# ##### In the Netherlands Gym and fitness industry is mostly controlled by gym-chains, with Basic-Fit being the biggest with 152 locations (2018), and SportsCity/FitForFree galling second with 107 locations (Statista, 2018)
+#  
+# 
+# ##### With a high trending industry competition is also fierce. Moreover, property cost in Amsterdam are scoring at all time high. Hence, opening up a new location comes with high fixed cost and a big risk. Therefore, before opening up a new location, a gym chain will have to carry out  extensive analysis on the best neighborhood to open up a new facility. This project will provide one way to analysize different neighborhoods based on the number of gyms, their ratings and population sizes. The analysis can support decision making on which neighborhoods have a high potential for a new gym location. Moreover, we can identify neighborhoods that are already saturated and don't have a good potential for expansion. 
+# 
+
+# ## 2.0 Data 
+# 
+# ##### To succesfully build this project and understand the best neighborhoods to open up a gym in Amsterdam we will be using the following data sources: 
+# 
+# ##### - Amsterdam Neighborhood Data 
+# - Data Source: https://claircitydata.cbs.nl/dataset/districts-and-neighbourhoods-amsterdam/resource/d02c5f12-1cfa-4d7c-91d3-41af8e4ed634?view_id=5bae9d1c-2bfc-4f00-b15a-69a27632c41c 
+# ####### - Description: This dataset describes the different neighborhoods in Amsterdam with their respective latitudes and longitues. It also contains useful information about the population of different age groups in each neighborhood. This dataset also contains the GEOJSON features that will be used to visualize the data on a choloropeth map. 
+# 
+# ###### - Gyms/Fitness Centers in Amsterdam Neighborhoods 
+# - Data Source: FourSquare API 
+# - Description: FourSquare API can provide us venue information that we can retrieve based on the Amsterdam Neighborhood latitudes and longitudes. We will further limit this data to include only information about sports venues (gyms) in Amsterdam Area. We will retrieve information such as: Venue Name, Category, Location, Rating, Tips, Likes etc. 
+# 
+
+# ## 3.0 Analysis 
+# 
+# #### - This section will be provided on the second week of Coursera Final Assignment 
+
+# ## Conclusions 
+# 
+# #### - This section will be provided on the second week of Coursera Final Assignment  
+
+# ## Sources 
+# 
+# ####### - "Trends in the Netherlands", Figures Leisure, https://longreads.cbs.nl/trends18-eng/society/figures/leisure/ 
+# ####### - "Leading Fitness Centers in the Netherlands, by number of clubs (2018) https://www.statista.com/statistics/819238/leading-fitness-centers-in-the-netherlands-by-number-of-clubs/
