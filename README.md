@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Repository for the Python for Data Science Capstone course from Coursera
+Repository for K-Means Clustering project to identify potential locations to open up new sports facilities.
